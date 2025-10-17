@@ -2,6 +2,8 @@
   "name": "gotofile-pro",
   "displayName": "gotofile-pro",
   "description": "more Go to File commands like 'Go to file using word at current cursor' and 'Go to file using current copied text'",
+  "repository": "https://github.com/teslae1/vscode_gotofile_pro",
+  "publisher": "KarlMogensen",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.105.0"
